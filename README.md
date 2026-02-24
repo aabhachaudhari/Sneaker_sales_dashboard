@@ -1,4 +1,4 @@
-# 👟 Sneakers Sales Dashboard (Power BI)
+# Sneakers Sales Dashboard (Power BI)
 
 A simple interactive Power BI dashboard created to explore sneaker sales data and practice data visualization. The goal of this project is to understand how sales vary by category, gender, brand, and payment mode using clear charts and filters.
 
