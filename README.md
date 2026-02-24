@@ -63,7 +63,8 @@ The data is **sample data created for learning purposes** and does not represent
 ---
 
 ## 📷 Preview
-(Add your dashboard screenshot here)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/819f1b04-df8a-4dcf-a2cc-2e714749554a" />
+
 
 ---
 
